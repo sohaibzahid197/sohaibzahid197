@@ -5,7 +5,7 @@
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohaibzahid197&label=Profile%20views&color=0e75b6&style=flat" alt="sohaibzahid197" /> </p>
 
-- 🔭 I’m currently working on **CareerSync**
+- 🔭 I’m currently working on **CareerSync** Project
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@sohaibzahid9828/a-deep-dive-into-api-handling-in-react-native-with-axios-advantages-drawbacks-and-best-practices-440c174f69f0)
 
