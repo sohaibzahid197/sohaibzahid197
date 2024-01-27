@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohaib Zahid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate React Native Developer from Pakistan</h3>
  <div style="flex: 1;">
     <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Programming GIF" width="400" align="right" />
   </div>
