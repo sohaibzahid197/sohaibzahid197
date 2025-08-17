@@ -55,7 +55,7 @@
 </p>
 
 ---
-### 🐍 Contribution Snake (Auto Update)
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/sohaibzahid197/sohaibzahid197/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
