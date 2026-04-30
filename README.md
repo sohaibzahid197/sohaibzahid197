@@ -2,7 +2,7 @@
 <h3 align="center">🚀 React Native & Full Stack Developer | Building Mobile Experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=React+Native+%26+Node.js+Developer;2%2B+Years+of+Experience;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=React+Native+%26+Node.js+Developer;3%2B+Years+of+Experience;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
