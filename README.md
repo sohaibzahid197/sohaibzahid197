@@ -51,15 +51,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,nextjs,firebase,mongodb,tailwind,git,figma" alt="React Native, TypeScript, JavaScript, Node.js, Express, Next.js, Firebase, MongoDB, Tailwind, Git, Figma" />
 </p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibzahid197&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzahid197&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohaibzahid197&theme=tokyonight" height="160" alt="Contribution streak" />
-</p>
