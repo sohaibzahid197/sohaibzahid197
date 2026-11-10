@@ -1,62 +1,65 @@
-<h1 align="center">Hi 👋, I'm Sohaib Zahid</h1>
-<h3 align="center">🚀 React Native & Full Stack Developer | Building Mobile Experiences</h3>
+<h1 align="center">Hi, I'm Sohaib Zahid 👋</h1>
+<h3 align="center">React Native developer building and shipping iOS and Android apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=React+Native+%26+Node.js+Developer;3%2B+Years+of+Experience;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=React+Native+%26+Node.js+Developer;3%2B+Years+of+Experience;AI-powered+mobile+apps" alt="React Native and Node.js developer" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/isohaibzahid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/zahid_soha97323"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@sohaibzahid9828"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="mailto:sohaibzahid9828@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Working on **CareerSync (Job Hunting App)**  
-- 🌱 Exploring **AI + Mobile Apps**  
-- 💬 Ask me about **React Native, Node.js, Firebase, MongoDB**  
-- 📫 Reach me at **sohaibzahid9828@gmail.com**  
+### 👨‍💻 About me
+
+- 📱 I build mobile apps end to end with **React Native and TypeScript**: design, app, backend, and store release
+- 🤖 Currently focused on **AI-powered mobile apps**
+- 🎓 BS Software Engineering, COMSATS Lahore
+- 💬 Ask me about **React Native, Node.js, Firebase, MongoDB**
+- 📍 Lahore, Pakistan · open to freelance and remote work
 
 ---
 
-### 🌐 Connect With Me
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Lazarus**](https://github.com/sohaibzahid197/lazarus) | Turns an old Android phone into a free AI server that answers anyone by plain SMS, in English or Urdu. Built for Kiroween 2026. | TypeScript |
+| [**VANE**](https://github.com/sohaibzahid197/VANE) | Crypto signal app for iOS and Android, with a Node pipeline that publishes signals to Firestore on a GitHub Actions schedule. | React Native, TypeScript, Firebase |
+| [**CareerSync**](https://github.com/sohaibzahid197/CareerSync) | AI-powered job hunting app. | JavaScript |
+| [**PumpPath**](https://github.com/sohaibzahid197/PumpPath-React-Native-App) | React Native mobile app. | React Native, TypeScript |
+
+---
+
+### 📱 Apps I've built
+
+- **Pet Health**: vaccination and medication records for iOS
+- **TimberLens**: mobile app built with TypeScript
+- **Halal food scanner**: scan food products to check halal status
+- **Digital Tasbih & Zikr Counter**
+- **SantaDrop**: Secret Santa draw
+- **Vivid AI**, **InoBill**, **BiteSet**, **PastLight**
+
+---
+
+### 🛠️ Tech stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/sohaib-zahid-abb37820a"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/zahid_soha97323"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://stackoverflow.com/users/30396613"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40"/></a>
-  <a href="https://fb.com/sohaib.zahid.980"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://medium.com/@sohaibzahid9828"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,nextjs,firebase,mongodb,tailwind,git,figma" alt="React Native, TypeScript, JavaScript, Node.js, Express, Next.js, Firebase, MongoDB, Tailwind, Git, Figma" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 📊 GitHub stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,express,mongodb,firebase,python,java,git,figma,tailwind,bootstrap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaibzahid197&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzahid197&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
 </p>
-
----
-
-### 📌 Featured Projects
-- 🔹 [CareerSync](https://github.com/sohaibzahid197/CareerSync) – AI powered Job Hunting App  
-- 🔹 [Masjid App](https://github.com/sohaibzahid197/Masjid-App) – Prayer Times + Community Management  
-- 🔹 [IoT Smart System](https://github.com/sohaibzahid197/IoT-Project) – IoT-based Automation  
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibzahid197&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzahid197&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.demolab.com?user=sohaibzahid197&theme=tokyonight" height="160" alt="Contribution streak" />
 </p>
-
----
-
-### 🔥 Streak & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohaibzahid197&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=sohaibzahid197&theme=tokyonight&margin-w=15&no-frame=true" height="160"/>
-</p>
-
----
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohaibzahid197/sohaibzahid197/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
